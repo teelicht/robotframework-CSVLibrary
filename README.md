@@ -2,12 +2,14 @@
 ## Introduction
 CSVLibrary is a [Robot Framework](http://robotframework.org/) library for handling csv files.
 
-More information about this library can be found in the [Keyword Documentation](https://rawgit.com/s4int/robotframework-CSVLibrary/master/doc/CSVLibrary.html).
+The version in this repo supports Python 3.
+
+More information about this library can be found in the [Keyword Documentation](https://rawgit.com/teelicht/robotframework-CSVLibrary/master/doc/CSVLibrary.html).
 
 ## Installation
 ### Using pip
 ```bash
-      pip install -U robotframework-csvlibrary
+      pip install -U git+https://github.com/teelicht/robotframework-CSVLibrary.git
 ```
 
 ### Manual installation
